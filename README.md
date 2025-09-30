@@ -10,7 +10,7 @@ A cordova "plugin" that helps you indicate the modifications on the iOS's *-info
 So it avoids you to directly edit the *-info.plist file.<br/>
 For example it is used to whitelist some schemes for ios9.<br/>
 This plugin was initially created to avoid iOS 9 problems that prevent opening other apps from your own app because some used plugins aren't updated to take into consideration the new specification for iOS 9.
-
+--this is a re-fork by sherwin@tesi 2022
 # 2 - How to use
 
 This plugins come with already some whitelisted apps :<br/>
