@@ -11,6 +11,7 @@
         So it avoids you to directly edit the *-info.plist file.
         For example it is used to whitelist some schemes for ios9.
         This plugin was initially created to avoid iOS 9 problems that prevent opening other apps from your own app because some used plugins aren't updated to take into consideration the new specification for iOS 9.
+        -refork by sherwin tesi 2022
     </description>
 
     <author>Haythem OUEDERNI - haythem@nirbyapp.com </author>
